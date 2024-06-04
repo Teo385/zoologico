@@ -4,7 +4,7 @@ public class Familia {
 
     private Animal papa= new Animal();
     private Animal mama= new Animal();
-    private Animal hijo;
+    private Animal hijo= new Animal();
 
     public Familia(Animal papa, Animal mama) {
         this.papa = papa;

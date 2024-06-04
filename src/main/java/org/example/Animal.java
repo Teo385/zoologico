@@ -7,6 +7,12 @@ public class Animal {
     private double peso;
     private Animal pareja;
 
+    // si yo debo crar una clase deberia de crar un objeto
+
+    /*
+    Gato   gato = new Gato()
+    Clase  objeto     Clase Constructor
+    */
 
     public Animal(String nombre, double peso) {
         this.nombre = nombre;

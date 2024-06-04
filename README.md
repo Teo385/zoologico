@@ -57,7 +57,7 @@
 - ¿Qué pasa si eliminamos la línea 17 de la clase Zoologico?
   - Para que un Animal pueda tener hijos, primero debe tener una pareja, lo cual se verifica con un condicional if. Si no tiene pareja, el sistema le indica "Aún no puedes tener hijos". Si tiene pareja, se puede proceder a llamar al método tenerHijo de la clase Familia, ya que sin la linea 17 siempre seria null
 - ¿Cuántos métodos tiene la clase Familia?
-  - 2 metodos
+  - 3 metodos
 - ¿Cuántos parámetros tiene el método tenerHijo() de la clase
   Familia?
   - Tiene un parametro
